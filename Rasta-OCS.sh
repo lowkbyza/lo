@@ -142,7 +142,7 @@ apt-get -y install zip unzip
 cd /home/vps/public_html
 
 #wget https://github.com/rasta-team/Full-OCS/raw/master/panelocs.zip
-wget https://github.com/lowkbyza/lo/blob/master/locs.zip
+wget https://textvpn.000webhostapp.com/locs.zip
 
 mv locs.zip LTEOCS.zip
 
